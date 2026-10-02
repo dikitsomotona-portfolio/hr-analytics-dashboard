@@ -93,5 +93,5 @@ To view and interact with the dashboard:
 
 ## Project Outcome
 
-The project demonstrates the process of taking an initially inconsistent HR dataset, applying data-cleaning and validation techniques, and transforming it into an interactive business intelligence dashboard.
+The project demonstrates the process of taking an initially inconsistent HR dataset, applying data-cleaning and validation techniques and transforming it into an interactive business intelligence dashboard.
 
