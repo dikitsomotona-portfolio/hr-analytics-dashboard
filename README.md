@@ -79,7 +79,7 @@ This project demonstrates practical skills in:
 
 ## Project Files
 
-| [HR_Analytics_Dashboard.pbix](HR_Analytics_Dashboard.pbix) | Power BI dashboard containing the data, transformations and visualisations |
+| [Dikitso Motona IDA Portfolio.pbix](Dikitso%20Motona%20IDA%20Portfolio.pbix) | Power BI dashboard containing the data, transformations and visualisations |
 
 ## How to Access the Dashboard
 
